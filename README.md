@@ -28,3 +28,7 @@ When your new project is ready for deployment, add a new Heroku application with
 \i ~/projects_v2/relationships-and-schema-design/sql-scripts/seed.supplier.sql
 
 \i ~/projects_v2/relationships-and-schema-design/sql-scripts/suppliers.sql
+
+\i ~/projects_v2/relationships-and-schema-design/sql-scripts/create_project_db.sql
+
+\i ~/projects_v2/relationships-and-schema-design/sql-scripts/seed_projects.sql
