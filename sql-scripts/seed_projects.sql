@@ -27,7 +27,7 @@ INSERT INTO employee
     ('Michael Scott', '5551234', 'Regional Manager', 80000, 2),
     ('Dwight Schrute', '5554321', 'Assistant to Regional Manager', 30000, 2),
     ('Jim Halpert', '5555678', 'Salesman', 50000, 2),
-    ('Pam Beasley', '5558765', 'Secretary', 35000, 2) ,
+    ('Pam Beasley', '5558765', 'Secretary', 35000, 2),
     ('Meredith Palmer', '5559876', 'Supplier Relations', 30000, 4),
     ('Toby Flenderson', '5558769', 'Head Human Resources', 60000, 3),
     ('Edgar Djikstra', '5554567', 'Lead Software Developer', 120000, 1);
